@@ -1,0 +1,22 @@
+.btn-blue {
+	background-color: #353030;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Inter', sans-serif;
+	text-align: center;
+
+}
+
+.btn-banner {
+	background-color: #353030;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Inter', sans-serif;
+	text-align: center;
+	display: block;
+	margin: 10px 10px 50px 200px;
+  	width: 250px;
+}
+
